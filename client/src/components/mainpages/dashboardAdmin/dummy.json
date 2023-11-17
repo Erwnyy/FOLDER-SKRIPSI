@@ -1,0 +1,33 @@
+{
+  "icon": "",
+  "menu":[
+    {
+      "support1": "Jika membeli Gelas Kembang maka membeli Topi Polos",
+      "children": 36.1
+    },
+    {
+      "support1": "Jika membeli Gelas Kembang  maka membeli Topi Design Geek Fam",
+      "children": 16.6
+    },
+    {
+      "support1": "Jika membeli masker cutom batik  maka membeli gelas kembang",
+      "children": 23.33
+    },
+    {
+      "support1": "Jika membeli masker cutom batik  maka membeli  Topi Polos",
+      "children": 20
+    },
+    {
+      "support1": "Jika membeli T Shirt linkid park  maka membeli T Shirt bmth",
+      "children": 24.13
+    },
+    {
+      "support1": "Jika membeli T Shirt linkid park,topi  maka membeli  design geek FAM",
+      "children": 24.13
+    },
+    {
+      "support1": "Jika membeli gelas kembang  maka membeli masker cutom batik",
+      "children": 16.6
+    }
+  ]
+}
